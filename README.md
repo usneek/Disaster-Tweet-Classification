@@ -24,8 +24,8 @@ Two approaches were followed for classification -
 Better performance was obtained by the BERT Model yielding a classification accuracy of **95.40%** comapred to 79.97% of the GloVe model.
 
 # Requirements
-Dataset can be downloaded from: https://www.kaggle.com/c/nlp-getting-started/data\
-glove.twitter.27B.50d.txt can be downloaded from: https://www.kaggle.com/baodier/glovetwitter27b50dtxt\
+Dataset can be downloaded from: https://www.kaggle.com/c/nlp-getting-started/data \
+glove.twitter.27B.50d.txt can be downloaded from: https://www.kaggle.com/baodier/glovetwitter27b50dtxt
 
 
 
